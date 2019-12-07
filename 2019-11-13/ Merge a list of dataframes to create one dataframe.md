@@ -1,12 +1,9 @@
 ###  Merge a list of dataframes to create one dataframe
 
+[Pandas Python: Concatenate dataframes having same columns - Stack Overflow](https://stackoverflow.com/questions/52204115/pandas-python-concatenate-dataframes-having-same-columns "Pandas Python: Concatenate dataframes having same columns - Stack Overflow")
 
-[python - Merge a list of dataframes to create one dataframe - Stack Overflow](https://stackoverflow.com/questions/38978214/merge-a-list-of-dataframes-to-create-one-dataframe "python - Merge a list of dataframes to create one dataframe - Stack Overflow")
-
-
- 
 
 ```python
-print pd.concat(dfs, axis=1)
-
+df_final = pd.concat([df1, df2, df3])
 ```
+
