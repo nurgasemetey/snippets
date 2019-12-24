@@ -6,3 +6,4 @@
 ```shell
 sudo dmidecode |grep -B 2 Stat
 ```
+
