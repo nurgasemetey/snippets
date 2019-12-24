@@ -11,3 +11,4 @@ rfkill block bluetooh
 rfkill unblock bluetooth
 sudo systemctl restart bluetooth
 ```
+
