@@ -4,7 +4,7 @@
 [bash - Read lines and match against pattern - Unix &amp; Linux Stack Exchange](https://unix.stackexchange.com/questions/190814/read-lines-and-match-against-pattern)
 
 
- 
+
 
 ```shell
 #!/bin/bash
