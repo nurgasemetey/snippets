@@ -1,5 +1,7 @@
 ###  dump, restore postgresql
+[How to generate a Postgresql Dump from a Docker container? - Stack Overflow](https://stackoverflow.com/questions/30171063/how-to-generate-a-postgresql-dump-from-a-docker-container "How to generate a Postgresql Dump from a Docker container? - Stack Overflow")
 
+[postgresql - pg_restore in postgres docker container - Stack Overflow](https://stackoverflow.com/questions/39267377/pg-restore-in-postgres-docker-container "postgresql - pg_restore in postgres docker container - Stack Overflow")
 
 
 
