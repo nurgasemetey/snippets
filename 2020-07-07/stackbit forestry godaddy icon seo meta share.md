@@ -25,4 +25,7 @@ SEO
 [gatsby-plugin-next-seo | GatsbyJS](https://www.gatsbyjs.org/packages/gatsby-plugin-next-seo/?=seo "gatsby-plugin-next-seo | GatsbyJS")
 
 
+Screenshot
+screely
+https://smartmockups.com/
 ```
