@@ -2,7 +2,7 @@
 
 
 [Dead Letter Exchanges — RabbitMQ](https://www.rabbitmq.com/dlx.html "Dead Letter Exchanges — RabbitMQ")
-
+[Back-off and retry with RabbitMQ](https://dev.venntro.com/2014/07/back-off-and-retry-with-rabbitmq/ "Back-off and retry with RabbitMQ")
 
  
 
