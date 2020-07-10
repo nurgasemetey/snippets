@@ -28,4 +28,18 @@ SEO
 Screenshot
 screely
 https://smartmockups.com/
+
+https://logomakr.com/
+
+
+Icon
+used svg from bootstrap
+also flaticon.com
+
+also flaticon used for flaticon
+
+also added
+google analytics to landing page
+
+[Adding Analytics to Your Stackbit Gatsby Site - Documentation](https://docs.stackbit.com/using-gatsby/analytics/ "Adding Analytics to Your Stackbit Gatsby Site - Documentation")
 ```
