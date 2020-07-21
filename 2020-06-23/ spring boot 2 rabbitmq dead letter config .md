@@ -38,7 +38,7 @@ also deadletter queue is initialized as you can see
 
 ```java
 
-//RECEIVER
+//RECEIVER not needed if you just receiving
 @Configuration
 public class RabbitConfig {
 
@@ -63,6 +63,7 @@ public class RabbitConfig {
     }
 
 }
+
 
 ----
     @RabbitListener(queues = INVESTMENT_NOTIFIER_QUEUE_RABBITMQ)
@@ -96,4 +97,44 @@ spring:
 
                 this.channelMap[queue[0]] = channel;
             }
+
+//SENDER spring boot
+
+@Configuration
+public class RabbitConfig {
+
+    public static final String NEW_PROJECT_FEASIBILITY_EVENT = "new-project-feasibility-event";
+    public static final String NEW_PROJECT_FEASIBILITY_EVENT_DLQ = "new-project-feasibility-event"+".dlq";
+
+    @Bean
+    Queue messagesQueue() {
+        return QueueBuilder.durable(NEW_PROJECT_FEASIBILITY_EVENT)
+                .withArgument("x-dead-letter-exchange", "")
+                .withArgument("x-dead-letter-routing-key", NEW_PROJECT_FEASIBILITY_EVENT_DLQ)
+                .build();
+    }
+
+    @Bean
+    Queue deadLetterQueue() {
+        return QueueBuilder.durable(NEW_PROJECT_FEASIBILITY_EVENT_DLQ).build();
+    }
+}
+
+---
+RECEIVER
+
+
+try {
+                let newProject = JSON.parse(message.content.toString());
+                this.newProjectListener.process(newProject);
+                channel.ack(message);
+            } catch(err) {
+                //requeue is set false to send to deadletter
+                channel.nack(message, false, false);
+            }
+
+
+
+
 ```
+
