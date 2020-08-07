@@ -1,4 +1,4 @@
-###  Get authentication credentials for the cluster kubernetes
+###  gcloud kubernetes credentials
 
 [Quickstart | Kubernetes Engine Documentation | Google Cloud](https://cloud.google.com/kubernetes-engine/docs/quickstart)
 
