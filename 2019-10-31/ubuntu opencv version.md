@@ -1,4 +1,4 @@
-### Find OpenCV Version Installed on Ubuntu
+### ubuntu opencv version
 
 
 [c++ - Find OpenCV Version Installed on Ubuntu - Stack Overflow](https://stackoverflow.com/questions/8804064/find-opencv-version-installed-on-ubuntu/12536170 "c++ - Find OpenCV Version Installed on Ubuntu - Stack Overflow")
