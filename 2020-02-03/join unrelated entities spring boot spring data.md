@@ -1,4 +1,4 @@
-###  join unrelated projects
+###  join unrelated entities spring boot spring data
 
 
 [java - Spring Data JPA - Join unrelated entities by defining projections - Stack Overflow](https://stackoverflow.com/questions/45343233/spring-data-jpa-join-unrelated-entities-by-defining-projections "java - Spring Data JPA - Join unrelated entities by defining projections - Stack Overflow")
