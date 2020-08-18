@@ -1,4 +1,4 @@
-### Example of multiple insert using node mysql2
+### node mysql multiple insert
 
 
 
