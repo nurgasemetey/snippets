@@ -1,4 +1,4 @@
-###  Service account for gcloud for pulling images from GCR
+###  gcloud gcr service account json docker pull
 
 
 [Authentication methods | Container Registry | Google Cloud](https://cloud.google.com/container-registry/docs/advanced-authentication#json_key_file)
