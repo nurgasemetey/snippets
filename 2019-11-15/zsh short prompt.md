@@ -1,4 +1,4 @@
-###  Shortening my prompt in Zsh
+###  zsh short prompt
 
 
 [shell - Shortening my prompt in Zsh - Stack Overflow](https://stackoverflow.com/questions/37286971/shortening-my-prompt-in-zsh "shell - Shortening my prompt in Zsh - Stack Overflow")
