@@ -1,4 +1,4 @@
-###  Get All Unique Values in Column spring data jpa
+###  unique value column spring data jpa
 
 
 [Spring Data JPA - Get All Unique Values in Column - Stack Overflow](https://stackoverflow.com/questions/42619129/spring-data-jpa-get-all-unique-values-in-column "Spring Data JPA - Get All Unique Values in Column - Stack Overflow")
