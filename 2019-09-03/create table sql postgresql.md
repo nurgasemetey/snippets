@@ -1,4 +1,4 @@
-###  Create table
+###  create table sql postgresql
 
 
 [PostgreSQL CREATE TABLE](http://www.postgresqltutorial.com/postgresql-create-table/)
