@@ -34,11 +34,10 @@ SEO
 [gatsby-plugin-next-seo | GatsbyJS](https://www.gatsbyjs.org/packages/gatsby-plugin-next-seo/?=seo "gatsby-plugin-next-seo | GatsbyJS")
 
 example config
-```
 https://github.com/Paraboly/product-releases-landing/blob/master/gatsby-config.js#L35
-```
 
-```
+
+
 {
             resolve: 'gatsby-plugin-next-seo',
             options: {
@@ -76,7 +75,7 @@ https://github.com/Paraboly/product-releases-landing/blob/master/gatsby-config.j
                 title:"Produc Tracker",
             },
         }
-```
+
 to validate
 - https://cards-dev.twitter.com/validator
 
