@@ -15,8 +15,17 @@ SaaS theme by Stackbit in site configuration footer
 [web app - Software screenshots on landing page - User Experience Stack Exchange](https://ux.stackexchange.com/questions/21543/software-screenshots-on-landing-page "web app - Software screenshots on landing page - User Experience Stack Exchange")
 
 DNS
+godaddy
+tur - cname
+ana bilgisayar - playliked, (app.producttracker	for https://app.producttracker.paraboly.com)
+yonlendirilen yer - priceless-clarke-f76e54.netlify.app
+ttl - 1/2 hour
+
+netlify
+custom domain -> playliked.paraboly.com
+
+
 added domain on netlify domain settings without http or https
-added  goddady cname type record, productrracker as main computer, product-releases-landing-79347.netlify.app for producttracker.paraboly.com
 
 icon to tab
 [Adding a Favicon to Your Stackbit Gatsby Site - Documentation](https://docs.stackbit.com/using-gatsby/favicon/ "Adding a Favicon to Your Stackbit Gatsby Site - Documentation")
