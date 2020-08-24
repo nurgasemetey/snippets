@@ -17,12 +17,12 @@ SaaS theme by Stackbit in site configuration footer
 DNS
 godaddy
 tur - cname
-ana bilgisayar - playliked, (app.producttracker	for https://app.producttracker.paraboly.com)
+ana bilgisayar - app.producttracker	for https://app.producttracker.paraboly.com
 yonlendirilen yer - priceless-clarke-f76e54.netlify.app
 ttl - 1/2 hour
 
 netlify
-custom domain -> playliked.paraboly.com
+custom domain -> app.producttracker.paraboly.com
 
 
 added domain on netlify domain settings without http or https
