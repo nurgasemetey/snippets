@@ -33,6 +33,51 @@ icon to tab
 SEO
 [gatsby-plugin-next-seo | GatsbyJS](https://www.gatsbyjs.org/packages/gatsby-plugin-next-seo/?=seo "gatsby-plugin-next-seo | GatsbyJS")
 
+example config
+```
+https://github.com/Paraboly/product-releases-landing/blob/master/gatsby-config.js#L35
+```
+
+```
+{
+            resolve: 'gatsby-plugin-next-seo',
+            options: {
+                openGraph: {
+                    type: 'website',
+                    url: 'https://producttracker.paraboly.com',
+                    title:'Your Product Tracker',
+                    description: "Track Your Products and Its Releases",
+                    site_name: 'Your Product Tracker',
+                    images:[
+                        {
+                            url: 'https://producttracker.paraboly.com/images/smartmockups_kcceuiu7.png',
+                            width: 800,
+                            height: 600,
+                            alt: 'Product tracker',
+                          }
+                    ]
+                },
+                twitter: {
+                    handle: '@producttracker1',
+                    site: '@producttracker1',
+                    cardType: 'summary_large_image',
+                    title:'Your Product Tracker',
+                    description: "Track Your Products and Its Releases",
+                    images:[
+                        {
+                            url: 'https://producttracker.paraboly.com/images/smartmockups_kcceuiu7.png',
+                            width: 800,
+                            height: 600,
+                            alt: 'Product tracker',
+                          }
+                    ]
+                },
+                description:"Track Your Products and Its Releases",
+                title:"Produc Tracker",
+            },
+        }
+```
+
 
 Screenshot
 screely
