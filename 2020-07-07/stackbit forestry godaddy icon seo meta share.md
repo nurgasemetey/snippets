@@ -77,6 +77,8 @@ https://github.com/Paraboly/product-releases-landing/blob/master/gatsby-config.j
             },
         }
 ```
+to validate
+- https://cards-dev.twitter.com/validator
 
 
 Screenshot
