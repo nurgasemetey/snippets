@@ -84,6 +84,8 @@ Screenshot
 screely
 https://smartmockups.com/
 
+
+logo
 https://logomakr.com/
 
 
