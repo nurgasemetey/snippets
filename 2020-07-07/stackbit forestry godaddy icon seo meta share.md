@@ -80,21 +80,6 @@ to validate
 - https://cards-dev.twitter.com/validator
 
 
-Screenshot
-screely
-https://smartmockups.com/
-
-
-logo
-https://logomakr.com/
-
-
-Icon
-used svg from bootstrap
-also flaticon.com
-
-also flaticon used for flaticon
-
 also added
 google analytics to landing page
 
