@@ -1,4 +1,4 @@
-###  Get field in datastore of document reference
+###  firestore get field of document
 
 
 
