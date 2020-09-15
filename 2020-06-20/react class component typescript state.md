@@ -1,4 +1,4 @@
-###  react typescript state
+###  react class component typescript state
 
 
 [javascript - Using state in react with TypeScript - Stack Overflow](https://stackoverflow.com/questions/46987816/using-state-in-react-with-typescript "javascript - Using state in react with TypeScript - Stack Overflow")
