@@ -14,5 +14,5 @@ Only send to verified domains and email addresses
 
 Go to
 
-Identities management -> View sending statistics -> disable sandbox mode
+SES Home -> View sending statistics -> disable sandbox mode
 ```
