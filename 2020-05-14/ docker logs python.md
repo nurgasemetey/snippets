@@ -7,5 +7,11 @@
  
 
 ```
+in Dockerfile
+Using unbuffered output with
 
+CMD ["python","-u","main.py"]
+instead of
+
+CMD ["python","main.py"]
 ```
