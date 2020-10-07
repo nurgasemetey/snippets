@@ -10,12 +10,12 @@
 const fs = require('fs');
 
 let rawdata = fs.readFileSync('student.json');
-let student = JSON.parse(rawdata);
-console.log(student);
+let docs = JSON.parse(rawdata);
+console.log(docs);
 
 
 ---
 
-let jsonData = require('./student.json');
+let docs = require('./student.json');
 
 ```
