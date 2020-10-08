@@ -1,4 +1,4 @@
-### Walkthrough for building libosrm 
+### libosrm build 
 
 [Walkthrough for building libosrm · Issue #5486 · Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend/issues/5486 "Walkthrough for building libosrm · Issue #5486 · Project-OSRM/osrm-backend")
 
