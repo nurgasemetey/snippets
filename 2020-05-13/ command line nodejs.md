@@ -15,4 +15,7 @@ let argv = require('minimist')(process.argv.slice(2));
     fs.writeFileSync("./swagger-spec.json", JSON.stringify(document));
     process.exit(0);
   }
+
+
+node dist/main --swagger-generate=True
 ```
