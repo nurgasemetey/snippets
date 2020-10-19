@@ -1,7 +1,7 @@
 ###  transform list in guava
 
 
-
+[Filtering and Transforming Collections in Guava | Baeldung](https://www.baeldung.com/guava-filter-and-transform-a-collection#transform-a-collection "Filtering and Transforming Collections in Guava | Baeldung")
 
 
  
