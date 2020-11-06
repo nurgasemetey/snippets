@@ -1,4 +1,4 @@
-###  amazon ses commands configuration
+###  amazon ses commands configuration template
 
 
 [How can we use Amazon SES template to send email in Node.js? | by Soni Pandey | Medium](https://medium.com/@pandeysoni/how-can-we-use-amazon-ses-template-to-send-email-in-node-js-fb162bd8152e "How can we use Amazon SES template to send email in Node.js? | by Soni Pandey | Medium")
