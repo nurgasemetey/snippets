@@ -11,4 +11,7 @@ logging:
   level:
     root: ${LOGGING_LEVEL_ROOT:info}
 
+
+my.property=${ENABLE:true}
+
 ```
