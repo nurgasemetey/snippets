@@ -1,4 +1,4 @@
-###  minio getObject Promise
+###  minio getObject promise
 
 
 [s3.getObject Promise example · Issue #1436 · aws/aws-sdk-js](https://github.com/aws/aws-sdk-js/issues/1436 "s3.getObject Promise example · Issue #1436 · aws/aws-sdk-js")
