@@ -1,4 +1,4 @@
-### postgresql connection drop
+### postgresql connection drop kill sessions
 
 
 [How to drop a PostgreSQL database if there are active connections to it? - Stack Overflow](https://stackoverflow.com/questions/5408156/how-to-drop-a-postgresql-database-if-there-are-active-connections-to-it "How to drop a PostgreSQL database if there are active connections to it? - Stack Overflow")

@@ -7,6 +7,7 @@
  
 
 ```
+/etc/pam.d/login
 add before line which contains pam_unix.so nullok_secure
 auth       optional     pam_faildelay.so  delay=500000
 
