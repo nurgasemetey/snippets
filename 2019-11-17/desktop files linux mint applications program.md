@@ -10,4 +10,7 @@
 check
 /usr/share/applications
 to ensure it has a desktop file.
+
+
+~/.local/share/applications/
 ```
