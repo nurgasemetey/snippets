@@ -13,4 +13,11 @@ db.books.update(
    { multi: true }
 )
 
+
+db.getCollection('Task').update(
+   { status: "DONE" },
+   { $set: { status: "ARCHIVED" } },
+   { multi: true }
+)
+
 ```
