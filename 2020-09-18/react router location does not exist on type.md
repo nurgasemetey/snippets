@@ -24,7 +24,7 @@ interface IState {
 }
 
 const dateFormat = "YYYY-MM-DD";
-const email = "nurgasemetey@gmail.com"
+const email = "test@gmail.com"
 
 export class MainDecisionContainer extends React.Component<IProps, IState> {
 
