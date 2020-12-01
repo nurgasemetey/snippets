@@ -1,0 +1,12 @@
+### show routes
+
+
+
+
+
+
+
+```
+route -n
+
+```
