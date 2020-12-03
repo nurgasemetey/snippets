@@ -7,5 +7,5 @@
  
 
 ```python
-df.to_csv(r'Path where you want to store the exported CSV file\File Name.csv')
+df.to_csv(r'Path where you want to store the exported CSV file\File Name.csv', sep=';')
 ```
