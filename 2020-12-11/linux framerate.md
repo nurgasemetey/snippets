@@ -1,0 +1,11 @@
+### linux framerate
+
+
+
+
+
+
+
+```
+glxgears
+```
