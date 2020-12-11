@@ -8,5 +8,5 @@
 
 ```python
 final_df = df.sort_values(by=['2'], ascending=False)
-
+sorted_line_stop = merged.sort_values(by=['HAT_ID', 'DURAK_SIRASI'])
 ```
