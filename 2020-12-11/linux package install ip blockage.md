@@ -1,4 +1,4 @@
-### linux packagei install ip blockage
+### linux package install ip blockage
 
 
 
