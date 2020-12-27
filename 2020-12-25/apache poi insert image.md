@@ -1,4 +1,4 @@
-### apache point insert image 
+### apache poi insert image 
 
 
 [Busy Developers' Guide to HSSF and XSSF Features](http://poi.apache.org/components/spreadsheet/quick-guide.html#Images "Busy Developers' Guide to HSSF and XSSF Features")
