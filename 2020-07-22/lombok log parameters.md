@@ -1,4 +1,4 @@
-###  lombok log params
+### lombok log parameters
 
 
 [Spring Boot Logging with Lombok - @Slf4j Annotation Example](https://howtodoinjava.com/spring-boot2/logging/logging-with-lombok/ "Spring Boot Logging with Lombok - @Slf4j Annotation Example")
