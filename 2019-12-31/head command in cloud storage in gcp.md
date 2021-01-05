@@ -7,7 +7,7 @@
 
 
 ```shell
-gsutil cat -r 0-500 "gs://parabol-tmp/*"
+gsutil cat -r 0-500 "gs://bucket/*"
 
 
 ```

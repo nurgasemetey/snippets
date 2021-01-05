@@ -7,6 +7,6 @@
 use basic authorization like user:token instead of user:password
 
 ```shell
-https://dev-paraboly:{TOKEN}@github.com/dev-paraboly/SBS.git
+https://username:{TOKEN}@github.com/username/SBS.git
 github mirror
 ```

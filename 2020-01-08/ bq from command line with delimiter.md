@@ -7,7 +7,7 @@
 
 
 ```shell
-bq load --field_delimiter=';' --source_format=CSV public-transportation-tto:fcd.segment_data_tmp "gs://parabol_third-party-segment-travel-time/*.csv" schema_tmp.json
+bq load --field_delimiter=';' --source_format=CSV public-transportation-tto:fcd.segment_data_tmp "gs://bucket/*.csv" schema_tmp.json
 
 
 bq load --field_delimiter=';' --source_format=CSV public-transportation-tto:fcd.segment_data_tmp /home/nurgasemetey/Downloads/2019-04-30T20_58_00-turkey-east.csv schema_tmp.json

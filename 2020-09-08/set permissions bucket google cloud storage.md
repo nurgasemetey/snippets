@@ -7,5 +7,5 @@
  
 
 ```
-gsutil iam ch allAuthenticatedUsers:objectViewer gs://parabol_research
+gsutil iam ch allAuthenticatedUsers:objectViewer gs://bucket
 ```

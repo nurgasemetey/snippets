@@ -7,6 +7,6 @@
  
 
 ```shell
-gsutil iam ch allAuthenticatedUsers:objectViewer gs://parabol_research
-gsutil iam ch allUsers:objectViewer gs://parabol_research
+gsutil iam ch allAuthenticatedUsers:objectViewer gs://bucket
+gsutil iam ch allUsers:objectViewer gs://bucket
 ```

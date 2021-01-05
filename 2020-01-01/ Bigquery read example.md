@@ -10,6 +10,6 @@
         TemplateOptions options = PipelineOptionsFactory.create()
                 .as(TemplateOptions.class);
         options.setProject("kgm-traffic-221812");
-        options.setStagingLocation("gs://parabol-tmp_kgm-traffic-221812_dataflow");
-        options.setTempLocation("gs://parabol-tmp_kgm-traffic-221812_dataflow");
+        options.setStagingLocation("gs://bucket");
+        options.setTempLocation("gs://bucket");
 ```

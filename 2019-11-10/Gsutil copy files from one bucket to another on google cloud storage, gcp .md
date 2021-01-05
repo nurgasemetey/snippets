@@ -7,5 +7,5 @@
  
 
 ```shell
-gsutil cp "gs://raw-gps-data/data-2019-07-30*" "gs://parabol_research/one_day_data/"
+gsutil cp "gs://raw-gps-data/data-2019-07-30*" "gs://bucket/one_day_data/"
 ```

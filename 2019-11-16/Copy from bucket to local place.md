@@ -7,5 +7,5 @@
 
 
 ```shell
-gsutil cp gs://parabol_ftp_test/test.csv navigation-data/test.csv
+gsutil cp gs://bucket/test.csv navigation-data/test.csv
 ```
