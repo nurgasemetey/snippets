@@ -1,4 +1,4 @@
-###  javascript first n elements from list array
+### javascript first n elements from list array
 
 
 [Lodash Documentation](https://lodash.com/docs/4.17.15#take "Lodash Documentation")
