@@ -1,4 +1,4 @@
-###  document a method with parameter in python
+### document method with parameter in python
 
 
 [python - How to document a method with parameter(s)? - Stack Overflow](https://stackoverflow.com/questions/9195455/how-to-document-a-method-with-parameters "python - How to document a method with parameter(s)? - Stack Overflow")
