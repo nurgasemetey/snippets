@@ -1,4 +1,4 @@
-###  Parsing time string in Python
+### parsing time string in Python
 
 
 [datetime - Parsing time string in Python - Stack Overflow](https://stackoverflow.com/questions/10494312/parsing-time-string-in-python "datetime - Parsing time string in Python - Stack Overflow")
