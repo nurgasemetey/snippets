@@ -1,4 +1,4 @@
-### Command line in nodejs
+### command line arguments nodejs
 
 
 [How to parse command line arguments | Node.js](https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/)
