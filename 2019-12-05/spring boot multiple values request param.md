@@ -1,4 +1,4 @@
-###  Get multiple values for same parameter name in request URL - Spring boot
+### spring boot multiple values request param
 
 
 [java - Get multiple values for same parameter name in request URL - Spring boot - Stack Overflow](https://stackoverflow.com/questions/52502778/get-multiple-values-for-same-parameter-name-in-request-url-spring-boot "java - Get multiple values for same parameter name in request URL - Spring boot - Stack Overflow")
