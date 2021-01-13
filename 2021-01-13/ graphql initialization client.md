@@ -37,14 +37,9 @@ const authMiddleware = (authToken) =>
 
     return forward(operation);
   });
-// export const useAppApolloClient = () => {
-//   const authToken = '2b46981edd1fef0c84eaad54e7f86650f58e2446';
-//   return new ApolloClient({
-//     link: authMiddleware(authToken).concat(httpLink),
-//   });
-// };
+
 const client = new ApolloClient({
   cache: new InMemoryCache(),
-  link: authMiddleware('2b46981edd1fef0c84eaad54e7f86650f58e2446').concat(httpLink),
+  link: authMiddleware('').concat(httpLink),
 });
 ```
