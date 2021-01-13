@@ -40,6 +40,6 @@ const authMiddleware = (authToken) =>
 
 const client = new ApolloClient({
   cache: new InMemoryCache(),
-  link: authMiddleware('').concat(httpLink),
+  link: authMiddleware('token').concat(httpLink),
 });
 ```
