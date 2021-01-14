@@ -89,10 +89,3 @@ they were before, you’ll pop() the last scene off the top of the stack, and
 what is revealed? The previous scene.
 
 ---
-
-Card
-
-[Cards - Material Design](https://material.io/components/cards/flutter#card "Cards - Material Design")
-
-
-
