@@ -1,4 +1,4 @@
-###  Iterating over groups in a dataframe pandas
+### iterate groups pandas groupby
 
 
 [python - Iterating over groups in a dataframe - Stack Overflow](https://stackoverflow.com/questions/46230895/iterating-over-groups-in-a-dataframe?noredirect=1&lq=1 "python - Iterating over groups in a dataframe - Stack Overflow")
