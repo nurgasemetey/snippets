@@ -1,4 +1,4 @@
-###  kubernete update image
+### kubernetes update image
 
 
 [How do I force Kubernetes to re-pull an image? - Stack Overflow](https://stackoverflow.com/questions/33112789/how-do-i-force-kubernetes-to-re-pull-an-image "How do I force Kubernetes to re-pull an image? - Stack Overflow")
