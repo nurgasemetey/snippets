@@ -7,6 +7,9 @@
  
 
 ```
-WantedOutput = sorted(MyDict, key=lambda x : MyDict[x]) 
+WantedOutput = sorted(MyDict, key=lambda x : MyDict[x])
+
+---
+sorted_dict_keys = sorted(counter, key=lambda x: -counter[x])
 
 ```
