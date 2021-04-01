@@ -9,6 +9,7 @@
 
 ```
 trip_data["linkId.timeBin"] = trip_data['linkId'].astype(str) + "." + trip_data['timeBin']
+df['col'] = 'str' + df['col'].astype(str)
 
 
 ```
