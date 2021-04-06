@@ -1,4 +1,4 @@
-###  Column to float
+### pandas column to float
 
 
 [How to Convert Strings to Floats in Pandas DataFrame - Data to Fish](https://datatofish.com/convert-string-to-float-dataframe/)

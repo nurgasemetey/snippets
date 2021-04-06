@@ -1,4 +1,4 @@
-###  Change type of column in read_csv
+###  change column typ pandas read_csv
 
 
 [How to Change Data Type for One or More Columns in Pandas Dataframe? — Python and R Tips](https://cmdlinetips.com/2018/09/how-to-change-data-type-for-one-or-more-columns-in-pandas-dataframe/)
