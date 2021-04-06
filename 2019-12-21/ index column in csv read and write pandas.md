@@ -8,5 +8,5 @@
 
 ```python
 df.to_csv(filename, index=False)
-df.read_csv(filename, index=False)  
+df.read_csv(filename, index_col=False)  
 ```
