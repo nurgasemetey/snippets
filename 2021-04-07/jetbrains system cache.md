@@ -1,4 +1,4 @@
-### jetbrains system cache﻿
+### jetbrains system cache
 
 
 [Cleaning system cache—AppCode](https://www.jetbrains.com/help/objc/cleaning-system-cache.html "Cleaning system cache—AppCode")
