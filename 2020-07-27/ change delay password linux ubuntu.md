@@ -7,8 +7,6 @@
  
 
 ```
-/etc/pam.d/login
-add before line which contains pam_unix.so nullok_secure
+Edit /etc/pam.d/common-auth and add nodelay: e.g.:
 auth       optional     pam_faildelay.so  delay=500000
-
 ```
